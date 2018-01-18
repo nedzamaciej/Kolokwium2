@@ -1,2 +1,2 @@
 Maciej Nêdza
-Kolkwium
+Kolkwium z npg
