@@ -11,7 +11,9 @@
 using namespace std;
 
 const int N = 15;                   // Liczba elementów
-const int M = 10;                   // Liczba sum czêœciowych
+const int M = 10;
+const int G = 20;                   // Liczba sum czêœciowych
+              // Liczba sum czêœciowych
 
 // **********************
 // *** PROGRAM G£ÓWNY ***

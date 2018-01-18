@@ -2,7 +2,7 @@
 // Data   : 15.03.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
-
+//Zmiana
 #include <iostream>
 
 using namespace std;
